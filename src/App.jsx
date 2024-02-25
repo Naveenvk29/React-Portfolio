@@ -9,7 +9,7 @@ import Skills from "./components/Skills/Skills"
 
 const App = () => {
   return (
-    <div>
+    <>
       <Navbar/>
       <Hero/>
       <About/>
@@ -17,7 +17,7 @@ const App = () => {
       <Project/>
       <Contact/>
       <Footer/>
-    </div>
+    </>
   )
 }
 
