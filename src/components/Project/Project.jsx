@@ -18,11 +18,127 @@ const Project = () => {
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-2xl font-bold text-white tracking-wider"></span>
             <a href="/">
-              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Live</button>
+              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                Git
+              </button>
             </a>
-
+            <a href="/">
+              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                Live
+              </button>
+            </a>
           </div>
-        </div>        
+        </div>
+        <div
+          className=" transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg
+            shadow-[#040c16] group  rounded-md flex justify-center items-center h-[200px] bg-cover relative "
+        >
+          <img
+            src="https://www.simplilearn.com/ice9/free_resources_article_thumb/What_Is_a_Project.jpg"
+            alt=""
+          />
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"></span>
+            <a href="/">
+              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                Git
+              </button>
+            </a>
+            <a href="/">
+              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                Live
+              </button>
+            </a>
+          </div>
+        </div>
+        <div
+          className=" transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg
+            shadow-[#040c16] group  rounded-md flex justify-center items-center h-[200px] bg-cover relative "
+        >
+          <img
+            src="https://ez-snippet.vercel.app/_next/image?url=%2Fprojects%2Fdalle-clone.webp&w=750&q=75"
+            alt=""
+          />
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"></span>
+            <a href="https://github.com/Naveenvk29/DALL-E-Clone-Mern">
+              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                Git
+              </button>
+            </a>
+            <a href="/">
+              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                Live
+              </button>
+            </a>
+          </div>
+        </div>
+        <div
+          className=" transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg
+            shadow-[#040c16] group  rounded-md flex justify-center items-center h-[200px] bg-cover relative "
+        >
+          <img
+            src="https://res-console.cloudinary.com/gummu/media_explorer_thumbnails/271638f37ba622008774b2c08d978dcc/detailed"
+            alt=""
+          />
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"></span>
+            <a href="https://github.com/Naveenvk29/Nike-Ui">
+              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                Git
+              </button>
+            </a>
+            <a href="https://nike-ui-theta.vercel.app/">
+              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                Live
+              </button>
+            </a>
+          </div>
+        </div>
+        <div
+          className=" transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg
+            shadow-[#040c16] group  rounded-md flex justify-center items-center h-[200px] bg-cover relative "
+        >
+          <img
+            src="https://res.cloudinary.com/gummu/image/upload/v1716911568/b0zjjkgbimlynjymoneb.png"
+            alt=""
+          />
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"></span>
+            <a href="https://github.com/Naveenvk29/CINELOVE">
+              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                Git
+              </button>
+            </a>
+            <a href="https://cinelove.vercel.app/">
+              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                Live
+              </button>
+            </a>
+          </div>
+        </div>
+        <div
+          className=" transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg
+            shadow-[#040c16] group  rounded-md flex justify-center items-center h-[200px] bg-cover relative "
+        >
+          <img
+            src="https://www.simplilearn.com/ice9/free_resources_article_thumb/What_Is_a_Project.jpg"
+            alt=""
+          />
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"></span>
+            <a href="/">
+              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                Git
+              </button>
+            </a>
+            <a href="/">
+              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                Live
+              </button>
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   );
