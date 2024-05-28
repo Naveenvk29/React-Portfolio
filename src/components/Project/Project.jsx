@@ -1,3 +1,6 @@
+import Movie_rating from "../../assets/movie.png";
+import nike_ui from "../../assets/nike-ui.png";
+
 const Project = () => {
   return (
     <div className="max-w-[1200px] mx-auto p-5" id="project">
@@ -12,12 +15,12 @@ const Project = () => {
             shadow-[#040c16] group  rounded-md flex justify-center items-center h-[200px] bg-cover relative "
         >
           <img
-            src="https://www.simplilearn.com/ice9/free_resources_article_thumb/What_Is_a_Project.jpg"
+            src="https://i.ytimg.com/vi/Wbc2db82jLQ/maxresdefault.jpg"
             alt=""
           />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-2xl font-bold text-white tracking-wider"></span>
-            <a href="/">
+            <a href="https://github.com/Naveenvk29/">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Git
               </button>
@@ -33,13 +36,10 @@ const Project = () => {
           className=" transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg
             shadow-[#040c16] group  rounded-md flex justify-center items-center h-[200px] bg-cover relative "
         >
-          <img
-            src="https://www.simplilearn.com/ice9/free_resources_article_thumb/What_Is_a_Project.jpg"
-            alt=""
-          />
+          <img src={Movie_rating} alt="" />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-2xl font-bold text-white tracking-wider"></span>
-            <a href="/">
+            <a href="https://github.com/Naveenvk29/">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Git
               </button>
@@ -78,17 +78,17 @@ const Project = () => {
             shadow-[#040c16] group  rounded-md flex justify-center items-center h-[200px] bg-cover relative "
         >
           <img
-            src="https://res-console.cloudinary.com/gummu/media_explorer_thumbnails/271638f37ba622008774b2c08d978dcc/detailed"
+            src="https://i.ytimg.com/vi/X3lvhCnXYaY/maxresdefault.jpg"
             alt=""
           />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-2xl font-bold text-white tracking-wider"></span>
-            <a href="https://github.com/Naveenvk29/Nike-Ui">
+            <a href="https://github.com/Naveenvk29/MERN-AUTH">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Git
               </button>
             </a>
-            <a href="https://nike-ui-theta.vercel.app/">
+            <a href="https://github.com/Naveenvk29/MERN-AUTH">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Live
               </button>
@@ -121,18 +121,15 @@ const Project = () => {
           className=" transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg
             shadow-[#040c16] group  rounded-md flex justify-center items-center h-[200px] bg-cover relative "
         >
-          <img
-            src="https://www.simplilearn.com/ice9/free_resources_article_thumb/What_Is_a_Project.jpg"
-            alt=""
-          />
+          <img src={nike_ui} alt="" />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-2xl font-bold text-white tracking-wider"></span>
-            <a href="/">
+            <a href="https://github.com/Naveenvk29/Nike-Ui">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Git
               </button>
             </a>
-            <a href="/">
+            <a href="https://nike-ui-theta.vercel.app/">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Live
               </button>
