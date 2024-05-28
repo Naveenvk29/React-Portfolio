@@ -20,12 +20,12 @@ const Project = () => {
           />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-2xl font-bold text-white tracking-wider"></span>
-            <a href="https://github.com/Naveenvk29/">
+            <a href="https://github.com/Naveenvk29/Ecommer-web">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Git
               </button>
             </a>
-            <a href="/">
+            <a href="https://github.com/Naveenvk29/Ecommer-web">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Live
               </button>
@@ -39,12 +39,12 @@ const Project = () => {
           <img src={Movie_rating} alt="" />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-2xl font-bold text-white tracking-wider"></span>
-            <a href="https://github.com/Naveenvk29/">
+            <a href="https://github.com/Naveenvk29/movie-rating">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Git
               </button>
             </a>
-            <a href="/">
+            <a href="https://github.com/Naveenvk29/movie-rating">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Live
               </button>
