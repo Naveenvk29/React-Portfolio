@@ -90,7 +90,7 @@ const Project = () => {
             </a>
             <a href="simple-authentication.onrender.com">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-            
+                Live
               </button>
             </a>
           </div>
