@@ -88,9 +88,9 @@ const Project = () => {
                 Git
               </button>
             </a>
-            <a href="https://github.com/Naveenvk29/MERN-AUTH">
+            <a href="simple-authentication.onrender.com">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                Live
+            
               </button>
             </a>
           </div>
