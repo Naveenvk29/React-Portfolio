@@ -1,5 +1,8 @@
-import Movie_rating from "../../assets/movie.png";
+import Movie_rating from "../../assets/movie-app.png";
 import nike_ui from "../../assets/nike-ui.png";
+import Work from "../../assets/work.png";
+import myBlog from "../../assets/myBlog.png";
+import R5_movies from "../../assets/R5-movies.png";
 
 const Project = () => {
   return (
@@ -9,23 +12,20 @@ const Project = () => {
         <p className="text-gray-400"> Check out some of Project</p>
       </div>
 
-      <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+      <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-10">
         <div
           className=" transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg
             shadow-[#040c16] group  rounded-md flex justify-center items-center h-[200px] bg-cover relative "
         >
-          <img
-            src="https://i.ytimg.com/vi/Wbc2db82jLQ/maxresdefault.jpg"
-            alt=""
-          />
+          <img src={myBlog} alt="" />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-2xl font-bold text-white tracking-wider"></span>
-            <a href="https://github.com/Naveenvk29/Ecommer-web">
+            <a href="https://github.com/Naveenvk29/CODING_SAMURAI_INTERNSHIP_TASK-3">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Git
               </button>
             </a>
-            <a href="https://github.com/Naveenvk29/Ecommer-web">
+            <a href="https://my-blog-41c5.onrender.com">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Live
               </button>
@@ -39,12 +39,12 @@ const Project = () => {
           <img src={Movie_rating} alt="" />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-2xl font-bold text-white tracking-wider"></span>
-            <a href="https://github.com/Naveenvk29/movie-rating">
+            <a href="https://github.com/Naveenvk29/Movies-Review">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Git
               </button>
             </a>
-            <a href="https://github.com/Naveenvk29/movie-rating">
+            <a href="https://github.com/Naveenvk29/Movies-Review">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Live
               </button>
@@ -56,17 +56,17 @@ const Project = () => {
             shadow-[#040c16] group  rounded-md flex justify-center items-center h-[200px] bg-cover relative "
         >
           <img
-            src="https://ez-snippet.vercel.app/_next/image?url=%2Fprojects%2Fdalle-clone.webp&w=750&q=75"
+            src="https://t3.ftcdn.net/jpg/00/57/66/66/360_F_57666636_V9MQ890Xa4w3XBYZHWf383ZqpqURCkZY.jpg"
             alt=""
           />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-2xl font-bold text-white tracking-wider"></span>
-            <a href="https://github.com/Naveenvk29/DALL-E-Clone-Mern">
+            <a href="https://github.com/Naveenvk29/Ecommerce">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Git
               </button>
             </a>
-            <a href="/">
+            <a href="https://github.com/Naveenvk29/Ecommerce">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Live
               </button>
@@ -77,18 +77,15 @@ const Project = () => {
           className=" transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg
             shadow-[#040c16] group  rounded-md flex justify-center items-center h-[200px] bg-cover relative "
         >
-          <img
-            src="https://i.ytimg.com/vi/X3lvhCnXYaY/maxresdefault.jpg"
-            alt=""
-          />
+          <img src={Work} alt="" />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-2xl font-bold text-white tracking-wider"></span>
-            <a href="https://github.com/Naveenvk29/MERN-AUTH">
+            <a href="https://github.com/Naveenvk29/refokus_clone">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Git
               </button>
             </a>
-            <a href="https://github.com/Naveenvk29/MERN-AUTH">
+            <a href="https://refokus-clone-liart.vercel.app/">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Live
               </button>
@@ -99,18 +96,15 @@ const Project = () => {
           className=" transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg
             shadow-[#040c16] group  rounded-md flex justify-center items-center h-[200px] bg-cover relative "
         >
-          <img
-            src="https://res.cloudinary.com/gummu/image/upload/v1716911568/b0zjjkgbimlynjymoneb.png"
-            alt=""
-          />
+          <img src={R5_movies} alt="" />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-2xl font-bold text-white tracking-wider"></span>
-            <a href="https://github.com/Naveenvk29/CINELOVE">
+            <a href="https://github.com/Naveenvk29/R5_Movie">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Git
               </button>
             </a>
-            <a href="https://cinelove.vercel.app/">
+            <a href="https://github.com/Naveenvk29/R5_Movie">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Live
               </button>
